@@ -1,6 +1,5 @@
 package com.xuwb.librarysystem.controller;
 
-import com.xuwb.librarysystem.dto.GeneralResponse;
 import com.xuwb.librarysystem.models.Book;
 import com.xuwb.librarysystem.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
